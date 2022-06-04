@@ -1,0 +1,49 @@
+.cont {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  background-color: #c6c5c5;
+  height: 40%;
+}
+
+
+.cont a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  float: right;
+}
+
+
+/* .cont a:hover {
+  background-color: #ddd;
+  color: black;
+} */
+
+
+
+
+.cont input[type=text] {
+  position: relative;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 30px;
+  top: 35%;
+  left: 35%;
+  background-color: #5c5959;
+  color: black;
+
+}
+.prod_container{
+  position: fixed;
+  top: 40%;
+  font-size: x-large;
+  
+}
+.prod_container prod1 id{
+  font-size: small;
+}

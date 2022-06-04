@@ -1,0 +1,32 @@
+*{
+     background-color: #f1f0c0;
+}
+.IMG{
+    display: inline;
+}
+.me{
+    display: inline;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: large;
+    font-style: italic;
+    color: red;
+    margin-left: 10px ;
+}
+.container{
+    position: relative;
+    float: left;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    /* float: right; */
+}
+.me2{
+    float: right;
+    
+    border-radius: 50px;
+}
